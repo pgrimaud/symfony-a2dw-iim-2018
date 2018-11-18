@@ -15,11 +15,19 @@
 - Fixtures:
     - pages des blogs
     - utilisateurs du back-office
+- Procédure d'installation du site (commandes pour installer le site)
 
 ### Points bonus : 
 
 - Pagination pour la page "liste des posts"
 - Code aux normes PSR-2
+- Back-office HTML propre
+
+## Pour vous aider :
+
+- Template back-office gratuit : https://adminlte.io/
+- Template front-office gratuit : https://startbootstrap.com/template-overviews/clean-blog/
+
 
 ## Livraison
 M'ajouter à votre repository git privé, et m'envoyer le lien par email à grimaud.pierre@gmail.com.
