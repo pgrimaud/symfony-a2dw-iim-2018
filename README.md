@@ -1,5 +1,5 @@
-# Projet IIM 2018
-## Date de rendu : 30 novembre 2018, 23:59
+# Projet Symfony A2 DW IIM 2018
+## Date de rendu maximum : 30 novembre 2018, 23:59
 
 ### Création d'un site internet administrable avec back-office sous Symfony 4
 
@@ -15,12 +15,12 @@
 - Fixtures:
     - pages des blogs
     - utilisateurs du back-office
-- Procédure d'installation du site (commandes pour installer le site)
+- Procédure d'installation du site (commandes pour installer le site) dans un fichier README.md
 
 ### Points bonus : 
 
 - Pagination pour la page "liste des posts"
-- Code aux normes PSR-2
+- Code aux normes PSR-2 (https://www.php-fig.org/psr/psr-2/)
 - Back-office HTML propre
 
 ## Pour vous aider :
@@ -30,7 +30,7 @@
 
 
 ## Livraison
-M'ajouter à votre repository git privé, et m'envoyer le lien par email à grimaud.pierre@gmail.com.
+M'ajouter à votre repository git privé (@pgrimaud), et m'envoyer le lien par email à grimaud.pierre@gmail.com.
 
 
 Bon courage
