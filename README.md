@@ -25,7 +25,7 @@
 	- Édition une page (home / about / contact)
 	- Mise à jour de page (home / about / contact)
 
-	3 pages doivent être crées :
+	3 pages (1 seule entité) doivent être crées :
 	
 	- Page home
 	- About
@@ -38,9 +38,13 @@
 	- Type (home ou about ou contact)
 	- Date de création
 
-Le champ "Type" doit être unique. Chaque page doit être unique.
+- Sur la page contact :
 
-- Connexion utilisateur pour administration. Lien de déconnexion.
+	- Un formulaire de contact contenant des champs avec enregistrement en DB lors de la soumission :
+		- Sujet
+		- Email
+		- Message
+		- Date d'envoi
 
 **Les posts, pages et utilisateurs doivent être généres via des fixtures.**
 
