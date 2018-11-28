@@ -1,5 +1,5 @@
 # Projet Symfony A2 DW IIM 2018
-## Date de rendu maximum : 30 novembre 2018, 23:59
+## Date de rendu maximum : 02 décembre 2018, 23:59
 
 ### Création d'un site internet administrable avec back-office sous Symfony 4
 
@@ -25,7 +25,7 @@
 	- Édition une page (home / about / contact)
 	- Mise à jour de page (home / about / contact)
 
-	3 pages (1 seule entité) doivent être crées :
+	3 pages (1 seule entitée) doivent être crées :
 	
 	- Page home
 	- About
