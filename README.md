@@ -11,7 +11,7 @@
 	- Création d'un post
 	- Édition d'un post
 	- Mise à jour d'un post
-	- Supression d'un post 	
+	- Suppression d'un post 	
 	
 	Un post doit contenir :
 	
